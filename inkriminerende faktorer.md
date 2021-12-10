@@ -1,1 +1,1 @@
-Melde at man kan sortere med en sammenlignbar algoritme i O(n) tid
+Tom Hagen hadde et økonomisk insentiv. Og DNA et hans ble funnet på åstedet
