@@ -11,6 +11,10 @@ Forstå datatyper:
 Generelt:
 - [ ] Liste over algoritmer, og enkle egenskaper
 
+Algoritmer:
+- [ ] Randomized partition 
+- [ ] Randomized select 
+
 Oppgave 2
 
 Generelt:
