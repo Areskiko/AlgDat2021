@@ -4,8 +4,17 @@
 -	Overlappende [[Delinstans | delinstanser]] (delproblemer) ((*subproblems*))
 -	Stavkutteproblemet
 -	Matrix-chain multiplication
--	Memoisering (Memoization)
+-	[[Memoisering]] (Memoization)
 
 
 ## Top down approach
-Løser problemet
+
+Løser problemet rekursivt nedover til den finner beste løsning.
+Den bruker [[Memoisering]] 
+Needs better forklaring
+
+
+## Bottom up approach
+
+Starter å løse det minste mulige [[Delinstans | delproblemet]] og lagrer resultatet fra det.
+Dette gir mindre overhead
