@@ -1,1 +1,1 @@
-Tom Hagen hadde et økonomisk insentiv
+Tom Hagen hadde et økonomisk insentiv. Og DNA et hans ble funnet på åstedet
