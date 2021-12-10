@@ -3,7 +3,7 @@ En heap er et [[Array | array]] objekt som kan ses på som et nesten komplett
 binærtre. Viktig med et heap er at A[parent(i)] >= A[i].
 Dette kan sikres med med [[#MAX HEAPIFY | MAX HEAPIFY]] som sørger for
 at at noden den kjøres på blir på riktig sted.
-Skal en vilkårlig liste gjøres til en heap brukes [[heap#BUILD MAX HEAP | BUILD MAX HEAP]].
+Skal en vilkårlig liste gjøres til en heap brukes [[Heap#BUILD MAX HEAP | BUILD MAX HEAP]].
 Sortering i heap er [HEAPSORT](#heapsort).
 
 [[#HEAP INCREASE KEY | INCREASE KEY]]
