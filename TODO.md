@@ -1,63 +1,63 @@
 Oppgave 1
 
 Begreper:
-- In place
+- [x] In place
 
 Forstå datatyper:
-- Pros
-- Cons
-- Whack
+- [ ] Pros
+- [ ] Cons
+- [ ] Whack
 
-Liste over algoritmer, og enkle egenskaper
+- [ ] Liste over algoritmer, og enkle egenskaper
 
 Oppgave 2
 
 Bruk ordeme:
-- subproblem
-- delinstans
-- reduksjon
+- [ ] subproblem
+- [ ] delinstans
+- [ ] reduksjon
 
 Kjenne eksklusive trekk ved sykler;
-- Negative sykler
-- Sykler
-- Negative kant vekter
+- [ ] Negative sykler
+- [ ] Sykler
+- [ ] Negative kant vekter
 
-Algoritmers forrhold til hverandre
+- [ ] Algoritmers forrhold til hverandre
 
-Problemer i forrhold til hverandre
+- [ ] Problemer i forrhold til hverandre
 
-Diskriminerende faktorer i problemer
+- [ ] Diskriminerende faktorer i problemer
 
 Oppgave 3
 
 Kjennetegn for Strategier:
-- Splitt og hersk
-	- Rekursjon
-	- Dynamisk Programmering (memoisering)
-	- Grådighet (om nom)
-- Iterativt
-	- In place (feks. sortering)
+- [ ] Splitt og hersk
+	- [ ] Rekursjon
+	- [ ] Dynamisk Programmering (memoisering)
+	- [ ] Grådighet (om nom)
+- [ ] Iterativt
+	- [ ] In place (feks. sortering)
 
-Størrelses kompleksitet og praktisk implementasjon
+- [ ] Størrelses kompleksitet og praktisk implementasjon
 
-Loop invariance + Matematisk induksjon
+- [ ] Loop invariance + Matematisk induksjon
 
-Dekomponering som stek i reduksjon, np hardhet fordi reduksjon fra vanskelig til annen impliserer annen vanskelig
+- [ ] Dekomponering som stek i reduksjon, np hardhet fordi reduksjon fra vanskelig til annen impliserer annen vanskelig
 
 Oppgave 4
 
-Karakteristiske trekk med BFS og DFS
+- [ ] Karakteristiske trekk med BFS og DFS
 
-Alt om flyt
+- [ ] Alt om flyt
 
-Sammenheng i graf problemer, reduksjon av graf problemer
+- [ ] Sammenheng i graf problemer, reduksjon av graf problemer
 
 Oppgave 5
 
-Kjennskap til problemer, og klasifisering
+- [ ] Kjennskap til problemer, og klasifisering
 
-Reduksjon
+- [ ] Reduksjon
 
-Det som ikke ligger i NP
+- [ ] Det som ikke ligger i NP
 
-Optimaliserings problem ikke i NP
+- [ ] Optimaliserings problem ikke i NP
