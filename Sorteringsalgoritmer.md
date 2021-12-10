@@ -15,4 +15,4 @@ Asymtotisk m = theta n lg n
 
 
 ## Tabell
-![sorteringstabell](SorteringsKjøreTid.PNG)
+![sorteringstabell](bilder/SorteringsKjøreTid.PNG)

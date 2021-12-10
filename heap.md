@@ -9,9 +9,9 @@ Skal en vilkårlig liste gjøres til en heap brukes [build max heap](##-BUILD-MA
 ## MAX HEAPIFY
 Kjøretid: O(lg n)
 
-![max_heapify](MaxHeapify.PNG)
+![max_heapify](bilder/MaxHeapify.PNG)
 
 ## BUILD MAX HEAP
 Kjøretid: O(n)
 
-![build_max_heap](buildMaxHeap.PNG)
+![build_max_heap](bilder/buildMaxHeap.PNG)
