@@ -1,0 +1,1 @@
+Vekten til en [[Kanter | kant]] kan forståes som hvor mye det koster å gå fra en [[Noder | node]] til en annen [[Noder | node]]

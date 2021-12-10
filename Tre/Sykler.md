@@ -1,1 +1,0 @@
-En sykel er et fenomen i et [[Tre | tre]] hvor en kan gå fra node u, gjennom et sett med noder, og ende opp på node u

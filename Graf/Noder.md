@@ -1,0 +1,1 @@
+En node er et punkt i en graf. Noder er ofte sammenkoblet gjennom [[Kanter | kanter]]
