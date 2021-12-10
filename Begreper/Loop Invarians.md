@@ -1,4 +1,4 @@
-Loop invarians er et verktøy/bevis på at en algoritme fungerer.
+Loop invarians er et verktøy/bevis på at en [[Iterativ metode | iterativ]] algoritme fungerer.
 En loop invariant er informasjon om tilstanden til dataen algoritmen opererer på.
 For å brukes som korrekthetsbevis må en kunne vise at invarianten har tre egenskaper:
 
