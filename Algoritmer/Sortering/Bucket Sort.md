@@ -13,3 +13,7 @@ Det fører til at hver 'bøtte' har få elementer, som gjør at insertion sort k
 
 Grunnen til å ikke bruke en O(nlg(n)) sortering internt er for å beholde linearitet. 
 Implementasjoner av f.eks. [[Merge Sort | merge sort]] og [[Quicksort | quicksort]] kan dra nytte av dette ved å bruke insertion sort når delinstansene blir små. 
+
+Stabilitet er avhengig av sorterings-implementasjonen.
+
+#Algoritme #Stabil 
