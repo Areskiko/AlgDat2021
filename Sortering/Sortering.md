@@ -1,6 +1,6 @@
 # Sortering
 
-* [Raske sorteringer](#raske-sortering)
+* [[#Raske sorteringer | Raske sorteringer]]
 
 ## Viktige huskerregler
 

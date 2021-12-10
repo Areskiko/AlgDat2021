@@ -6,7 +6,7 @@ at at noden den kjøres på blir på riktig sted.
 Skal en vilkårlig liste gjøres til en heap brukes [[heap#BUILD MAX HEAP | BUILD MAX HEAP]].
 Sortering i heap er [HEAPSORT](#heapsort).
 
-[[#HEAP INCREASE KEY | HEAÅ INCREASE KEY]]
+[[#HEAP INCREASE KEY | INCREASE KEY]]
 
 [[#MAX HEAP INSERT | MAX HEAP INSERT]]
 
