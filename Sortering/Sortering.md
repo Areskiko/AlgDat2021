@@ -20,6 +20,8 @@ Asymtotisk m = theta n lg n
 ![sorteringstabell](bilder/SorteringsKjøreTid.PNG)
 
 ## Sammenliknbare sorteringer
+-	[[Merge Sort]]
+-	[[quicksort]]
 
 ## Raske sorteringer
 - [[Radix Sort]]
