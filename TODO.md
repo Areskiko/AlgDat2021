@@ -13,9 +13,9 @@ Forstå datatyper:
 Oppgave 2
 
 Bruk ordeme:
-- [ ] subproblem
-- [ ] delinstans
-- [ ] reduksjon
+- [x] subproblem
+- [x] delinstans
+- [x] reduksjon
 
 Kjenne eksklusive trekk ved sykler;
 - [ ] Negative sykler

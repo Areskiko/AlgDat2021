@@ -1,0 +1,1 @@
+Å redusere vil si å ta et problem, og å finne en løsning som i stor grad baserer seg på et [[Subproblem | subproblem]]
