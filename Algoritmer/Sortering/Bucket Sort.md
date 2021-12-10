@@ -6,7 +6,7 @@ Kjøretid:
 Sorterer elementer som ligger i intervallet \[0,1).
 
 Average case oppnåes under antagelsen at tallene er uniformt distribuert.
-Det fører til at hver 'bøtte' har få elementer, som gjør at insertion sort kjører i lineær tid
+Det fører til at hver 'bøtte' har få elementer, som gjør at [[Insertion Sort | insertion sort]] kjører i lineær tid
 
 ![Bucket Sort](bilder/BucketSort.png)
 
