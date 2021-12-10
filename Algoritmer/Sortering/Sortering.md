@@ -29,3 +29,4 @@ Asymtotisk m = theta n lg n
 - [[Counting Sort]]
 
 #Algoritme
+#Sortering 

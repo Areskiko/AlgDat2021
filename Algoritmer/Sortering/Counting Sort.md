@@ -11,3 +11,4 @@ Atributter:
 
 #Stabil
 #Algoritme
+#Sortering 

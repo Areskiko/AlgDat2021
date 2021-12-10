@@ -14,3 +14,4 @@ Partition:
 #Sammenlign 
 #SplittOgHersk
 #Algoritme
+#Sortering 
