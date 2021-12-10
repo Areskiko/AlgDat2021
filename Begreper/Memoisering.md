@@ -1,2 +1,4 @@
 # Memoisering
-Memoisering er en optimaliseringsteknikk som brukes til å øke hastigheten til data programmer ved å lagre resultatene av dyre funksjonskall og returnere resultatene (cached results) når samme funksjonsinput oppstår. 
+Memoisering er en optimaliseringsteknikk som brukes til å øke hastigheten til data
+programmer ved å lagre resultatene av dyre funksjonskall og returnere resultatene
+(cached results) når samme funksjonsinput oppstår. 
