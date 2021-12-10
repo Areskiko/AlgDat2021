@@ -17,3 +17,4 @@ Merge:
 #Sammenlign
 #Sortering
 #SplittOgHersk 
+#Algoritme

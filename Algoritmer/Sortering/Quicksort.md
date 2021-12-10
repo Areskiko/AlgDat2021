@@ -13,3 +13,4 @@ Partition:
 
 #Sammenlign 
 #SplittOgHersk
+#Algoritme
