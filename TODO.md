@@ -8,6 +8,7 @@ Forstå datatyper:
 - [ ] Cons
 - [ ] Whack
 
+Generelt:
 - [ ] Liste over algoritmer, og enkle egenskaper
 
 Oppgave 2
