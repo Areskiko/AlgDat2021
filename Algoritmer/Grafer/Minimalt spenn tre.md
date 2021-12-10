@@ -7,6 +7,14 @@ Kjøretid: $O(E\lg V)$
 
 ![[MSTKruskal.PNG]]
 
+Find set:
+
+![[Find set.PNG]]
+
+Union:
+
+![[Union.PNG]]
+
 ### Prim's algorithm
 Kjøretid: $O(E\lg V)$
 
