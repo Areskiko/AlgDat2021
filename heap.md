@@ -1,5 +1,5 @@
 # Heaps
-En heap er et array objekt som kan ses på som et nesten komplett
+En heap er et [[Array | array]] objekt som kan ses på som et nesten komplett
 binærtre. Viktig med et heap er at A[parent(i)] >= A[i].
 Dette kan sikres med med [MAX HEAPIFY](#max-heapify) som sørger for
 at at noden den kjøres på blir på riktig sted.
