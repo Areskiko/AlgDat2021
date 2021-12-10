@@ -1,0 +1,1 @@
+Melde at man kan sortere med en sammenlignbar algoritme i O(n) tid
