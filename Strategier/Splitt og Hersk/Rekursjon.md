@@ -1,4 +1,4 @@
-
+[[Rekursjon]]
 
 #Strategi
 #SplittOgHersk 
