@@ -13,3 +13,5 @@ Merge sort:
 Merge:
 
 ![[Merge.png]]
+
+#Sammenlign
