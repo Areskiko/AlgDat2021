@@ -1,1 +1,2 @@
 Et subproblem er et problem som er del av løsningen til et større problem man egentlig er interresert i. Ulikt en [[Delinstans | delinstans]] vil et subproblem ikke være det samme problemet som før, men ha en noen annerledes natur.
+
