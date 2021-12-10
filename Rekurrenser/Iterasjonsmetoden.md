@@ -5,7 +5,7 @@ mønster. Lag et generelt uttrykk, uttrykt ved i, der i er hvilken iterasjon du 
 så inn for grunntilfellet, og løs. Får ofte summer man må gjenkjenne, som feks. $\sum_{i=1}^{n}i$ eller $\sum_{i=0}^{n}2^i$, som har [[Kjente summer | kjente løsninger.]]
 
 Etter å ha funnet et svar kan du dobbletsjekke det med
-[[Sjekke svar med WA | WolframAlfa]]
+[[Sjekke svar med WA | WolframAlpha]]
 
 ### Eksempel 1
 ![RekurrensEksempel](bilder/RekurrensEksempel.png)
