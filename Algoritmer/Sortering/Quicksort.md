@@ -13,4 +13,3 @@ Partition:
 
 #Sammenlign 
 #SplittOgHersk
-#Sortering

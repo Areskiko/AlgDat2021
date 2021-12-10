@@ -1,7 +1,7 @@
 # Djikstra Algoritme
 
 ## Egenskaper
--	Funker ikke med negative kantvekter
+-	Funker ikke med [[Negative Kanter | negative kantvekter]]
 
 
 ## Algoritme
@@ -13,4 +13,4 @@ Extract min:
 
 Kjøretid: $\theta$(lg n)
 
-#Optimering
+#chad
