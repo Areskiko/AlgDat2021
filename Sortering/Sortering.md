@@ -21,7 +21,7 @@ Asymtotisk m = theta n lg n
 
 ## Sammenliknbare sorteringer
 -	[[Merge Sort]]
--	[[quicksort | Quicksort]]
+-	[[Quicksort | Quicksort]]
 -	[[Heap#HEAPSORT | Heapsort]]
 
 ## Raske sorteringer
