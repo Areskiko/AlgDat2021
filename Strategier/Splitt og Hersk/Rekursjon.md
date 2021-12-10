@@ -1,4 +1,3 @@
 [[Rekurjson]]
 
-#Strategi
-#SplittOgHersk 
+#Strategi/SplittOgHersk 

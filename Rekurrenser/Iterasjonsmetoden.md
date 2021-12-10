@@ -24,7 +24,6 @@ $T(n) = T(n-n) +n = 0 + n = n$
 
 Vi har nå løst rekurrensen
 
-
 ### Eksempel 2
 Tatt fra [Eksamen kont 2020](https://algdat.idi.ntnu.no/arkiv/2021.aug.tdt4120.oppg.no.pdf)
 ![RekurrenseEksempel2](bilder/RekurrensEksempel2.png)

@@ -4,4 +4,4 @@ Dette er sterkt knyttet til [[Loop Invarians | loop invarians]].
 
 Iterative sorteringsalgoritmer er ofte [[In Place | in place]]
 
-#Strategi
+#Strategi/Iterativ

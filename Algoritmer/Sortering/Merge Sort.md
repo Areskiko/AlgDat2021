@@ -16,5 +16,5 @@ Merge:
 
 #Sammenlign
 #Sortering
-#SplittOgHersk 
+#Strategi/SplittOgHersk  
 #Algoritme

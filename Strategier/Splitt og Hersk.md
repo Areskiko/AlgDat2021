@@ -7,4 +7,4 @@ Det finnes flere splitt og hersk strategier. Derriblant
 [[Dynamisk Programmering | dynamisk programmering]],
 [[Grådig | grådig strategi]], og [[Rekursjon | rekursjon]]
 
-#Strategi
+#Strategi/SplittOgHersk 
