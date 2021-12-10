@@ -1,6 +1,6 @@
 # Sortering
 
-* [Raske sorteringer](#raske-sortering)
+* [[#Raske sorteringer | Raske sorteringer]]
 
 ## Viktige huskerregler
 
@@ -28,7 +28,7 @@ Kjøretid: O(n+k)
 
 Atributter:
 * Stabil
-* Brukes ofte med [radix sort](#radix-sort)
+* Brukes ofte med [[#Radix sort | Radix sort]]
 
 ### Radix sort
 Kjøretid: O(d(n+k))
