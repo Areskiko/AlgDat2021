@@ -15,4 +15,5 @@ For å få opp grafen trykker du på `Open Graph View` knappen i venstre marg
 ![Bilde](bilder/graphButton.png)
 
 Graph View har mange instillinger for visning, her er det bare å leke seg frem. Blant annent er det mulig å fargelegge noder basert på kriterier
+
 ![Bilde](bilder/groups.png)
