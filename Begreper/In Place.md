@@ -1,1 +1,1 @@
-Sortere "In Place" vil si å kun sortere et konstant antall elementer utenfor input array-et.
+Å sortere "In Place" vil si å sortere med kun et konstant antall elementer utenfor input array-et.
