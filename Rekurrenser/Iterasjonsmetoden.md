@@ -34,5 +34,10 @@ Andre iterasjon\
 $T(n) = T(n-3) + (n-2) + (n-1) + n - 3/2$
 
 Generelt kan iterasjon $i$ skrives som\
-$T(n) = T(n-i) + (n-i +1) + (n-i+2)+ .... + (n-2) + (n-1) + n - i/2$
+$T(n) = T(n-i) + (n-i +1) + (n-i+2)+ .... + (n-2) + (n-1) + n - i/2$\
+$T(n) = T(n-i) + [\sum_{k = n-i+1}^{k = n} k] - i/2$\
+For å bruke $T(0)=0$ setter vi $i=n$\
+$T(n) =  0 + [\sum_{k = 1}^{k = n} k] - n/2$\
+Bruker at summen av de $n$ første heltallene er $\frac{n(n+1)}{2}$\
+$T(n) = \frac{n(n+1)}{2} - \frac{n}{2} = \frac{n^2}{2}$
 
