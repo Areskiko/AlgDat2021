@@ -12,21 +12,20 @@ Forstå datatyper:
 
 Oppgave 2
 
+Generelt:
+- [ ] Algoritmers forrhold til hverandre
+- [ ] Problemer i forrhold til hverandre
+- [ ] Diskriminerende faktorer i problemer
+
 Bruk ordeme:
 - [x] subproblem
 - [x] delinstans
 - [x] reduksjon
 
 Kjenne eksklusive trekk ved sykler;
-- [ ] Negative sykler
-- [ ] Sykler
-- [ ] Negative kant vekter
-
-- [ ] Algoritmers forrhold til hverandre
-
-- [ ] Problemer i forrhold til hverandre
-
-- [ ] Diskriminerende faktorer i problemer
+- [x] Negative sykler
+- [x] Sykler
+- [x] Negative kant vekter
 
 Oppgave 3
 
@@ -39,25 +38,18 @@ Kjennetegn for Strategier:
 	- [ ] In place (feks. sortering)
 
 - [ ] Størrelses kompleksitet og praktisk implementasjon
-
 - [ ] Loop invariance + Matematisk induksjon
-
 - [ ] Dekomponering som stek i reduksjon, np hardhet fordi reduksjon fra vanskelig til annen impliserer annen vanskelig
 
 Oppgave 4
 
 - [ ] Karakteristiske trekk med BFS og DFS
-
 - [ ] Alt om flyt
-
 - [ ] Sammenheng i graf problemer, reduksjon av graf problemer
 
 Oppgave 5
 
 - [ ] Kjennskap til problemer, og klasifisering
-
 - [ ] Reduksjon
-
 - [ ] Det som ikke ligger i NP
-
 - [ ] Optimaliserings problem ikke i NP

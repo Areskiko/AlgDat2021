@@ -1,0 +1,1 @@
+Dybde først søk er en [[Traversering | traverserings strategi]] som går ut på å utforske den nyeste noden først
