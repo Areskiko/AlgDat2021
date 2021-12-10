@@ -1,0 +1,1 @@
+En mindre bit av et større problem. Til forskjell fra et [[Subproblem | subproblem]] er problemet helt likt det opprinnelige problemet, bare med færre elementer.
