@@ -11,7 +11,7 @@ Kjøretid: O(E lg V) hvis alle noder kan nås fra rot
 
 Extract min:
 
-Kjøretid: $\theta$(lg n)
+Kjøretid: $\Theta$(lg n)
 
 #graf
 #algoritme
