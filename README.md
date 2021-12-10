@@ -25,6 +25,6 @@ Blant annent er det mulig å fargelegge noder basert på kriterier
 
 For å lese teksten er det bare å navigere i sidemenyen, trykke [ctrl/cmd]+o,
 eller trykke på en av nodene i grafen.
-Filen åpnes i redigerings modus, men ved å trykke på [ctrl/cmd]+e, 
+Filen åpnes i redigerings modus, men ved å trykke på [ctrl/cmd]+e,
 eller knappen helt til venstre oppe i høyre hjørne, ser du filen i lese modus.
 Det anbefales å skru på `Strict line breaks` instillingen for at teksten skal vises riktig.
