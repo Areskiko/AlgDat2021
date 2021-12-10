@@ -5,6 +5,7 @@
 -	Stavkutteproblemet
 -	Matrix-chain multiplication
 -	[[Memoisering]] (Memoization)
+-	[[Tabulering]] (Tabulation)
 
 
 ## Top down approach
@@ -16,5 +17,4 @@ Needs better forklaring
 
 ## Bottom up approach
 
-Starter å løse det minste mulige [[Delinstans | delproblemet]] og lagrer resultatet fra det.
-Dette gir mindre overhead
+Starter å løse det minste mulige [[Delinstans | delproblemet]] og lagrer resultatet fra det i en tabell. 
