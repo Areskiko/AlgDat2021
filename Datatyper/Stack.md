@@ -23,3 +23,5 @@ Adds element to the top of the stack
 Removes element from the top of the stack
 
 ![stack_push](bilder/StackPop.png)
+
+#Datatype

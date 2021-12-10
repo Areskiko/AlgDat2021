@@ -3,3 +3,5 @@ gjennom et sett med [[Kanter | kanter]], og ende opp på node u
 
 Om en sykel har [[Negative Kanter | negative kanter]] vil det kunne oppstå en
 [[Negative Sykler | negativ sykel]]
+
+#Graf

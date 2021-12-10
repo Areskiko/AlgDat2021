@@ -41,4 +41,5 @@ Kjøretid: O(lg n)
 
 ![max heap insert](bilder/maxHeapInsert.PNG)
 
+#Datatype
 #Sammenlign 

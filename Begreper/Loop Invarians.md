@@ -11,3 +11,5 @@ vil den fortsette å være sann før neste iterasjon.
 ## Terminering
 Når loopen terminerer vil invarianten gi oss en nyttig egenskap som hjelper oss å vise at
 algoritmen er korrekt
+
+#Begrep
