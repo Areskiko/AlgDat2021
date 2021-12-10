@@ -8,3 +8,5 @@ Insertion sort går flytter det j-te elementet trinnvis ned i arrayet A, fram ti
 Dette gjøres for j \[2, len(A)].
 
 ![Insertion Sort](bilder/InsertionSort.png)
+
+#Algoritme #Stabil #InPlace
