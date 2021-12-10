@@ -1,12 +1,14 @@
 # Iterasjonsmetoden
 
-Metode for å løse rekurrensrelasjoner. Iterativt sett inn for T(n) helt til du finner et mønster. Lag et generelt uttrykk, uttrykt ved i, der i er hvilken iterasjon du er på. Sett inn så inn for grunntilfellet, og løs.
+Metode for å løse rekurrensrelasjoner. Iterativt sett inn for T(n) helt til du finner et
+mønster. Lag et generelt uttrykk, uttrykt ved i, der i er hvilken iterasjon du er på. Sett inn
+så inn for grunntilfellet, og løs.
 
-Etter å ha funnet et svar kan du dobbletsjekke det med [[Sjekke svar med WA | WolframAlfa]]
+Etter å ha funnet et svar kan du dobbletsjekke det med
+[[Sjekke svar med WA | WolframAlfa]]
 
 ### Eksempel
 ![RekurrensEksempel](bilder/RekurrensEksempel.png)
-
 
 Første iterasjon
 Bytt ut $T(n-1)$ på høyre siden med $T(n-2) + 1$
