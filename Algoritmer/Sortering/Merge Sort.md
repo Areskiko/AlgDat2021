@@ -15,3 +15,4 @@ Merge:
 ![[Merge.png]]
 
 #Sammenlign
+#Sortering
