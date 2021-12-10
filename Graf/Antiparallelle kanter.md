@@ -1,0 +1,1 @@
+Antiparallelle kanter er direkte [[Sykler | sykel]] mellom to [[Noder | noder]]
