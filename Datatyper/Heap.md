@@ -11,6 +11,10 @@ Sortering i heap er [HEAPSORT](#heapsort).
 
 [[#MAX HEAP INSERT | MAX HEAP INSERT]]
 
+Implementasjonen av disse funksjonene forutsetter at heapen representeres med et array i minnet: ![Array representation](bilder/HeapRepresentation.png)
+
+![Relationship functions](bilder/HeapRelationships.png)
+
 
 ## MAX HEAPIFY
 Kjøretid: O(lg n)
