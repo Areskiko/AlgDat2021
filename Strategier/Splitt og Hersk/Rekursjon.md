@@ -1,0 +1,4 @@
+
+
+#Strategi
+#SplittOgHersk 

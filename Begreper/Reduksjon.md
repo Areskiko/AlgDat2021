@@ -8,3 +8,5 @@ Dersom man for eksempel finner ut at (sammenligningsbasert) sortering kan reduse
 noe som er O(n) betyr det at selve reduksjonen må være O(nlgn).
 Dette som en følge av at sortering er beviselig O(nlgn).
 
+
+#Begrep

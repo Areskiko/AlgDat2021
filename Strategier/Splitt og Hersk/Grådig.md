@@ -9,3 +9,6 @@
 ## Vanlige grådige algoritmer
 -	Huffman enkoding
 -	Stavkutting (rod cut problem)
+
+#Strategi
+#SplittOgHersk 

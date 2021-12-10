@@ -1,7 +1,7 @@
 # Djikstra Algoritme
 
 ## Egenskaper
--	Funker ikke med negative kantvekter
+-	Funker ikke med [[Negative Kanter | negative kantvekter]]
 
 
 ## Algoritme
@@ -12,3 +12,6 @@ Kjøretid: O(E lg V) hvis alle noder kan nås fra rot
 Extract min:
 
 Kjøretid: $\theta$(lg n)
+
+#graf
+#algoritme

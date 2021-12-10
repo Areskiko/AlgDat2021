@@ -10,3 +10,5 @@ Atributter:
 * Brukes ofte med [[Radix Sort]]#
 
 #Stabil
+#Algoritme
+#Sortering 

@@ -15,3 +15,6 @@ Merge:
 ![[Merge.png]]
 
 #Sammenlign
+#Sortering
+#SplittOgHersk 
+#Algoritme

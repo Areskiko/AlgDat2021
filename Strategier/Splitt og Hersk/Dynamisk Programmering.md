@@ -18,3 +18,6 @@ Needs better forklaring
 ## Bottom up approach
 
 Starter å løse det minste mulige [[Delinstans | delproblemet]] og lagrer resultatet fra det i en tabell. 
+
+#Strategi
+#SplittOgHersk 
