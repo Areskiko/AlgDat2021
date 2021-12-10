@@ -10,3 +10,6 @@ Quicksort:
 Partition:
 
 ![[Partition.PNG]]
+
+#Sammenlign 
+#SplittOgHersk

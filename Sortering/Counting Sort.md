@@ -7,4 +7,6 @@ Kjøretid: O(n+k), der n er antall tall og k er det største tallet.
 
 Atributter:
 * [[Stabil sortering]]
-* Brukes ofte med [[Radix Sort]]
+* Brukes ofte med [[Radix Sort]]#
+
+#Stabil
