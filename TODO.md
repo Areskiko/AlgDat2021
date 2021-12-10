@@ -2,6 +2,7 @@ Oppgave 1
 
 Begreper:
 - [x] In place
+- [ ] Rekursjon
 
 Forstå datatyper:
 - [ ] Pros
