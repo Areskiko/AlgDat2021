@@ -13,4 +13,5 @@ Extract min:
 
 Kjøretid: $\theta$(lg n)
 
-#graf #algoritme
+#graf
+#algoritme
