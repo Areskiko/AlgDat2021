@@ -1,0 +1,1 @@
+Et traverseringstre er et tre over noder i en graf som kan nås fra en vilkårlig valgt startnode. Et tre kan konstrueres med å gjøre [[BFS |bfs]] eller [[DFS|dfs]] fra en node
