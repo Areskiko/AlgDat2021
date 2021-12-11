@@ -1,0 +1,1 @@
+En type [[Queue | kø]] som implementeres med en [[Heap | heap]] slik at at objektet med størst/minst prioritet er øverst
