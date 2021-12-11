@@ -18,6 +18,7 @@ Generelt:
 - [ ] Korteste vei og slakking property - 2
 - [ ] Heltallsteoremet (integrality theorem) - 3
 - [ ] Redusibilitets-relasjonen - 1
+- [ ] Topological sort - 2
 
 Rekurrenser
 - [ ] Substitusjon - 1
@@ -48,18 +49,17 @@ Eksempler
 	- [ ] SUBSET-SUM
 
 Algoritmer:
-- [ ] Randomized partition 
-- [ ] Randomized select 
-- [ ] Select, men ikke in depth, bare hva den gjør
-- [ ] Heapsort
-- [ ] BFS
-- [ ] DFS (parentesteoremet, hvit sti teoremet, hvordan kanter klassifiseres, implementasjon med stack)
-- [ ] Topological sort
-- [ ] Generic MST
-- [ ] Bisect og bisect'
+- [x] Randomized partition
+- [ ] Randomized select - 1
+- [ ] Select, men ikke in depth, bare hva den gjør -2
+- [x] Heapsort
+- [ ] BFS - 1
+- [ ] DFS (parentesteoremet, hvit sti teoremet, hvordan kanter klassifiseres, implementasjon med stack) - 1
+- [ ] Generic MST - 1
+- [ ] Bisect og bisect' - 2
 - [x] RELAX
 - [x] Dag shortest path kobling til DP
-- [ ] Transistive closure
+- [ ] Transistive closure - 1
 - [x] Ford fulkerson og ford fulkerson method
 
 Oppgave 2
@@ -82,12 +82,12 @@ Kjenne eksklusive trekk ved sykler;
 Oppgave 3
 
 Kjennetegn for Strategier:
-- [ ] Splitt og hersk
-	- [ ] Rekursjon
-	- [ ] Dynamisk Programmering (memoisering)
-	- [ ] Grådighet (om nom)
-- [ ] Iterativt
-	- [ ] In place (feks. sortering)
+- [x] Splitt og hersk
+	- [x] Rekursjon
+	- [x] Dynamisk Programmering (memoisering)
+	- [x] Grådighet (om nom)
+- [x] Iterativt
+	- [x] In place (feks. sortering)
 
 - [ ] Størrelses kompleksitet og praktisk implementasjon
 - [ ] Loop invariance + Matematisk induksjon
