@@ -9,3 +9,5 @@ Egnet for spinkle grafer, og for traversering. Bruker mindre plass enn nabomatri
 En binærmatrise $A$ der $a_{ij}$ angir om det går en kant fra $i$ til $j$. Kan også bruke en [[Vekt | vektmatrise]] $W$ der $w_{ij} < \infty$ hvis det går en kant fra $i$ til $j$. 
 
 Egnet for tette grafer, og for rask lookup. Bruker mye plass, uansett om den har få kanter. Må alltid ha $n^2$ elementer.
+
+#Graf
