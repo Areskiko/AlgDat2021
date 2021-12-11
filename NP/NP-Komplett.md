@@ -1,4 +1,5 @@
-NP Komplett er et subsett av [[NP]] hvor enhvert problem er minst like vanskelig som det vanskeligste problemet i [[NP]]
+NP Komplett er et subsett av [[NP]] hvor enhvert problem er minst like
+vanskelig som det vanskeligste problemet i [[NP]]
 
 Med andre ord: NP komplette problem er både [[NP-Hard]] og i [[NP]]
 
