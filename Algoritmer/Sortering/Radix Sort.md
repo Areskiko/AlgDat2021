@@ -1,7 +1,10 @@
-### Radix sort
-Kjøretid: O(d(n+k)), der d er lengden på elementene, n er antall elementer og k er størrelsen på hvert 'del-element'.
+# Radix sort
 
-Radix sort er en logisk utvidelse av [[Counting Sort | counting sort]] for å kunne hanskes med store tall i lineær tid.
+Radix sort er en logisk utvidelse av [[Counting Sort | counting sort]] og [[Bucket Sort| bucket sort]]for å kunne hanskes med store tall i lineær tid.
+
+## Algoritme
+
+Kjøretid: $\Theta (d(n+k))$ der d er lengden på elementene, n er antall elementer og k er størrelsen på hvert 'del-element'.
 
 ![Radix sort](bilder/radixsort.PNG)
 
