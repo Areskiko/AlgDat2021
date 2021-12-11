@@ -1,12 +1,17 @@
-### Bucket Sort
-Kjøretid: 
-- Average case $O(n)$
-- Worst Case $O(n^2)$
+# Bucket Sort
+
 	
+## Egenskaper
+
 Sorterer elementer som ligger i intervallet \[0,1).
 
 Average case oppnåes under antagelsen at tallene er uniformt distribuert.
 Det fører til at hver 'bøtte' har få elementer, som gjør at [[Insertion Sort | insertion sort]] kjører i lineær tid
+
+## Algoritme
+Kjøretid: 
+- Average case $O(n)$
+- Worst Case $O(n^2)$
 
 ![[BucketSort.png]]
 
