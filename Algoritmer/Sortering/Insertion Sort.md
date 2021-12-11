@@ -14,4 +14,4 @@ Kjøretid:
 
 #Algoritme/Sortering 
 #Stabil 
-#InPlace
+#In-place
