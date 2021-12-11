@@ -42,4 +42,4 @@ $T(n) =  0 + [\sum_{k = 1}^{k = n} k] - n/2$\
 Bruker at summen av de $n$ første heltallene er $\frac{n(n+1)}{2}$\
 $T(n) = \frac{n(n+1)}{2} - \frac{n}{2} = \frac{n^2}{2}$
 
-#Iterasjon
+#Rekurens

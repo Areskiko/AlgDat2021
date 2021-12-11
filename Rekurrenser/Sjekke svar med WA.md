@@ -12,4 +12,4 @@ Kan brukes til å dobbeltsjekke løsninger funnet med [[Iterasjonsmetoden]].
 ![rekurrens_eksempel](bilder/RekurrensEksempel.png)
 ![rekurrens_eksempel_løsning](bilder/RekurrensEksempelLøsning.png)
 
-#Iterasjon
+#Rekurens 
