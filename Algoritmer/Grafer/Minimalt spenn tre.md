@@ -2,6 +2,7 @@
 Defenisjon: [[Begreper/Minimalt Spenn Tre]]
 
 ## Algoritmer
+Begge er grådige
 ### MST-Kruskal
 Kjøretid: $O(E\lg V)$
 
