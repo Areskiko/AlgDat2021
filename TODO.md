@@ -60,10 +60,10 @@ Algoritmer:
 - [ ] DFS (parentesteoremet, hvit sti teoremet, hvordan kanter klassifiseres, implementasjon med stack)
 - [ ] Topological sort
 - [ ] Generic MST
-- [ ] RELAX
-- [ ] Dag shortest path kobling til DP
+- [x] RELAX
+- [x] Dag shortest path kobling til DP
 - [ ] Transistive closure
-- [ ] Ford fulkerson og ford fulkerson method
+- [x] Ford fulkerson og ford fulkerson method
 
 Oppgave 2
 
