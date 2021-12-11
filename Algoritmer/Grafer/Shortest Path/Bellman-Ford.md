@@ -10,5 +10,9 @@ Kjøretid: O(VE)
 
 ![[Bellman-Ford.PNG]]
 
+Relax:
+
+[[Relax]]
+
 #Graf 
 #Algoritme/Graf 
