@@ -61,7 +61,7 @@ Algoritmer:
 - [ ] Topological sort
 - [ ] Generic MST
 - [ ] RELAX
-- [ ] Dag shortest path kobling til DP
+- [x] Dag shortest path kobling til DP
 - [ ] Transistive closure
 - [ ] Ford fulkerson og ford fulkerson method
 
