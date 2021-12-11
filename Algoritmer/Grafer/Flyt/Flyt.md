@@ -12,3 +12,5 @@
 
 ## Algoritmer
 [[Ford Fulkerson]] $O(Ef)$
+
+[[Edmonds Karp]] $O(VE^2)$
