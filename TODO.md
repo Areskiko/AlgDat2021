@@ -23,7 +23,7 @@ Generelt:
 Rekurrenser
 - [ ] Substitusjon - 1
 - [ ] Rekursjonstrær - 1
-- [ ] Masterteoremet - 1
+- [x] Masterteoremet - 1
 - [ ] Eksempel på delinstansgraf hos delinstans - 2
 - [ ] Optimal delstruktur - 2
 
