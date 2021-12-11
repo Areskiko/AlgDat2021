@@ -5,16 +5,23 @@ Begreper:
 - [ ] Rekursjon
 
 Datatyper:
-- [ ] Binære søketrær trær
+- [ ] Binære søketrær
+- [ ] Traverseringstrær (bredde først, dybde først trær)
 - [ ] Restnett
 - [ ] Hashtable
 - [ ] Metodene til prioritetskø
+- [ ] Korteste vei tre representasjon
 
 Generelt:
 - [ ] Liste over algoritmer, og enkle egenskaper
 - [ ] Asymptotisk notasjon
 - [ ] Amortisert analyse
 - [ ] Bisect og bisect'
+- [ ] Skog implementasjonen av disjunkte mengder
+- [ ] Korteste vei (single source, single destination, single pair, all pairs)
+- [ ] Korteste vei og slakking property
+- [ ] Heltallsteoremet (integrality theorem)
+- [ ] Redusibilitets-relasjonen
 
 Rekurrenser
 - [ ] Substitusjon
@@ -29,12 +36,25 @@ Eksempler
 - [ ] Stavkutting
 - [ ] LCS
 - [ ] Binær ryggsekkproblem (ligger i pensumheftet)
+- [ ] Aktivitet utvelgelse
+- [ ] Kontinuerlig ryggsekk
+- [ ] Korteste vei 
+- [ ] Forgjengerstrukturen for alle til alle korteste vei
+- [ ] Flytnet, flyt og maksflyt problemet
 
 Algoritmer:
 - [ ] Randomized partition 
 - [ ] Randomized select 
 - [ ] Select, men ikke in depth, bare hva den gjør
 - [ ] Heapsort
+- [ ] BFS
+- [ ] DFS (parentesteoremet, hvit sti teoremet, hvordan kanter klassifiseres, implementasjon med stack)
+- [ ] Topological sort
+- [ ] Generic MST
+- [ ] RELAX
+- [ ] Dag shortest path kobling til DP
+- [ ] Transistive closure
+- [ ] Ford fulkerson og ford fulkerson method
 
 Oppgave 2
 
