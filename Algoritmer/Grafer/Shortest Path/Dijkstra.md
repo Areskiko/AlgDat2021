@@ -17,5 +17,11 @@ Extract min:
 
 Kjøretid: $\Theta$(lg n)
 
+Relax:
+
+Kjøretid: $O(1)$
+
+![[Relax.PNG]]
+
 #Graf
 #Algoritme/Graf
