@@ -10,4 +10,4 @@
 -	Huffman enkoding
 -	Stavkutting (rod cut problem)
 
-#Strategi/SplittOgHersk 
+#Strategi 

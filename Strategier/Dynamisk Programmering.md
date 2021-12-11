@@ -12,11 +12,14 @@
 
 Løser problemet rekursivt nedover til den finner beste løsning.
 Den bruker [[Memoisering]] 
+Ved bruk av top down benyttes [[Rekursjon | rekursjon]].
 Needs better forklaring
 
 
 ## Bottom up approach
 
-Starter å løse det minste mulige [[Delinstans | delproblemet]] og lagrer resultatet fra det i en tabell. 
+Starter å løse det minste mulige [[Delinstans | delproblemet]] og lagrer
+resultatet fra det i en tabell. 
+Ved bruk bottom up benyttes [[Iterativ metode | iterativ metode]].
 
-#Strategi/SplittOgHersk 
+#Strategi 
