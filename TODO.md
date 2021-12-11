@@ -1,47 +1,44 @@
 Oppgave 1
 
 Begreper:
-- [x] In place
-- [ ] Rekursjon
+- [x] Rekursjon
 
 Datatyper:
-- [ ] Binære søketrær
-- [ ] Traverseringstrær (bredde først, dybde først trær)
-- [ ] Restnett
-- [ ] Hashtable
-- [ ] Metodene til prioritetskø
-- [ ] Korteste vei tre representasjon
+- [ ] Binære søketrær - 1
+- [ ] Restnett - 1
+- [ ] Hashtable - 1
+- [ ] Metodene til prioritetskø/koblingen til en max/min heap - 2
 
 Generelt:
-- [ ] Liste over algoritmer, og enkle egenskaper
-- [ ] Asymptotisk notasjon
-- [ ] Amortisert analyse
-- [ ] Bisect og bisect'
-- [ ] Skog implementasjonen av disjunkte mengder
-- [ ] Korteste vei (single source, single destination, single pair, all pairs)
-- [ ] Korteste vei og slakking property
-- [ ] Heltallsteoremet (integrality theorem)
-- [ ] Redusibilitets-relasjonen
+- [x] Liste over algoritmer, og enkle egenskaper
+- [ ] Asymptotisk notasjon (likninger i sær) - 1
+- [ ] Amortisert analyse - 2
+- [ ] Skog implementasjonen av disjunkte mengder - 2
+- [ ] Korteste vei (single source, single destination, single pair, all pairs) - 2 
+- [ ] Korteste vei og slakking property - 2
+- [ ] Heltallsteoremet (integrality theorem) - 3
+- [ ] Redusibilitets-relasjonen - 1
+- [ ] Topological sort - 2
 
 Rekurrenser
-- [ ] Substitusjon
-- [ ] Rekursjonstrær
-- [ ] Masterteoremet
-- [ ] Eksempel på delinstansgraf hos delinstans
-- [ ] Optimal delstruktur
+- [ ] Substitusjon - 1
+- [ ] Rekursjonstrær - 1
+- [ ] Masterteoremet - 1
+- [ ] Eksempel på delinstansgraf hos delinstans - 2
+- [ ] Optimal delstruktur - 2
 
 Eksempler
-- [ ] Maximum subarray
-- [ ] Flyt eksempler
-- [ ] Stavkutting
-- [ ] LCS
-- [ ] Binær ryggsekkproblem (ligger i pensumheftet)
-- [ ] Aktivitet utvelgelse
-- [ ] Kontinuerlig ryggsekk
-- [ ] Korteste vei 
-- [ ] Forgjengerstrukturen for alle til alle korteste vei
-- [ ] Flytnet, flyt og maksflyt problemet
-- [ ] NP komplette problemer
+- [ ] Maximum subarray - 3
+- [ ] Flyt eksempler - 3
+- [ ] Stavkutting - 3
+- [ ] LCS - 3
+- [ ] Binær ryggsekkproblem (ligger i pensumheftet) - 3
+- [ ] Aktivitet utvelgelse - 3
+- [ ] Kontinuerlig ryggsekk - 3
+- [ ] Korteste vei - 3
+- [ ] Forgjengerstrukturen for alle til alle korteste vei - 3
+- [ ] Flytnet, flyt og maksflyt problemet - 3
+- [ ] NP komplette problemer - 3 
 	- [ ] CIRCUIT-SAT
 	- [ ] SAT
 	- [ ] 3-CNF-SAT
@@ -52,17 +49,17 @@ Eksempler
 	- [ ] SUBSET-SUM
 
 Algoritmer:
-- [ ] Randomized partition 
-- [ ] Randomized select 
-- [ ] Select, men ikke in depth, bare hva den gjør
-- [ ] Heapsort
-- [ ] BFS
-- [ ] DFS (parentesteoremet, hvit sti teoremet, hvordan kanter klassifiseres, implementasjon med stack)
-- [ ] Topological sort
-- [ ] Generic MST
+- [x] Randomized partition
+- [ ] Randomized select - 1
+- [ ] Select, men ikke in depth, bare hva den gjør -2
+- [x] Heapsort
+- [ ] BFS - 1
+- [ ] DFS (parentesteoremet, hvit sti teoremet, hvordan kanter klassifiseres, implementasjon med stack) - 1
+- [ ] Generic MST - 1
+- [ ] Bisect og bisect' - 2
 - [x] RELAX
 - [x] Dag shortest path kobling til DP
-- [ ] Transistive closure
+- [ ] Transistive closure - 1
 - [x] Ford fulkerson og ford fulkerson method
 
 Oppgave 2
@@ -85,12 +82,12 @@ Kjenne eksklusive trekk ved sykler;
 Oppgave 3
 
 Kjennetegn for Strategier:
-- [ ] Splitt og hersk
-	- [ ] Rekursjon
-	- [ ] Dynamisk Programmering (memoisering)
-	- [ ] Grådighet (om nom)
-- [ ] Iterativt
-	- [ ] In place (feks. sortering)
+- [x] Splitt og hersk
+	- [x] Rekursjon
+	- [x] Dynamisk Programmering (memoisering)
+	- [x] Grådighet (om nom)
+- [x] Iterativt
+	- [x] In place (feks. sortering)
 
 - [ ] Størrelses kompleksitet og praktisk implementasjon
 - [ ] Loop invariance + Matematisk induksjon

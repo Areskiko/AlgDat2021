@@ -19,9 +19,9 @@ Kjøretid: $\Theta$(lg n)
 
 Relax:
 
-Kjøretid: $O(1)$
+[[Relax]]
 
-![[Relax.PNG]]
+
 
 #Graf
 #Algoritme/Graf
