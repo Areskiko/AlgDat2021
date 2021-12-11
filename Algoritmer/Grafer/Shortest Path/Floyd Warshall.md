@@ -3,7 +3,7 @@
 ## Algoritme
 Kjøretid: $\Theta(n^3)$
 
-[[Floyd Warshall.PNG]]
+![[Floyd Warshall.PNG]]
 
 ## Egenskaper
 -	?

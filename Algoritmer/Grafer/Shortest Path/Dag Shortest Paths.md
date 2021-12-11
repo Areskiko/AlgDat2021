@@ -6,6 +6,10 @@ Kjøretid: $\Theta$(V + E)
 
 ![[DagShortestPath.PNG]]
 
+Relax:
+
+[[Relax]]
+
 
 ## Begrensninger
 -	Kan ikke håndtere sykler
