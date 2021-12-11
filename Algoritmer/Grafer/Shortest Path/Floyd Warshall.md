@@ -10,4 +10,4 @@ Kjøretid: $\Theta(n^3)$
 
 
 #Graf 
-#Algoritme 
+#Algoritme/Graf

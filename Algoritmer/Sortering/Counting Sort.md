@@ -9,6 +9,5 @@ Atributter:
 * [[Stabil sortering]]
 * Brukes ofte med [[Radix Sort]]#
 
+#Algoritme/Sortering 
 #Stabil
-#Algoritme
-#Sortering 

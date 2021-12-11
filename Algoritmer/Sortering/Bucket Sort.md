@@ -16,4 +16,5 @@ Implementasjoner av f.eks. [[Merge Sort | merge sort]] og [[Quicksort | quicksor
 
 Stabilitet er avhengig av sorterings-implementasjonen.
 
-#Algoritme #Stabil 
+#Algoritme/Sortering 
+#Stabil 

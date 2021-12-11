@@ -11,4 +11,4 @@ Kjøretid: O(VE)
 ![[Bellman-Ford.PNG]]
 
 #Graf 
-#Algoritme 
+#Algoritme/Graf 

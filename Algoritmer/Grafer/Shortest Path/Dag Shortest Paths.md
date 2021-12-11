@@ -13,5 +13,5 @@ Kjøretid: $\Theta$(V + E)
 
 
 #Graf 
-#Algoritme 
+#Algoritme/Graf
 

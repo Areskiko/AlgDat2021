@@ -11,7 +11,6 @@ Partition:
 
 ![[Partition.PNG]]
 
-#Sammenlign 
+#Algoritme/Sortering 
 #Strategi/SplittOgHersk 
-#Algoritme
-#Sortering 
+#Sammenlign 

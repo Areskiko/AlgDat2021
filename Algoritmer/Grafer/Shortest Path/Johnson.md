@@ -13,4 +13,4 @@ Kjøretid: $O (V^2 \lg V +VE)$
 
 
 #Graf 
-#Algoritme 
+#Algoritme/Graf

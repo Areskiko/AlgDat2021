@@ -12,5 +12,4 @@ Attributter:
 	- Konverter alle til base n og radix sorter listen
 
 
-#Algoritme
-#Sortering 
+#Algoritme/Sortering 

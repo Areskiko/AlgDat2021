@@ -9,4 +9,6 @@ Dette gjøres for j \[2, len(A)].
 
 ![Insertion Sort](bilder/InsertionSort.png)
 
-#Algoritme #Stabil #InPlace
+#Algoritme/Sortering 
+#Stabil 
+#InPlace
