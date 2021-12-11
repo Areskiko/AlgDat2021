@@ -20,10 +20,8 @@ For å vise at X er NP hardt så kan vi ta et kjent NP-hardt problem F.eks.
 Hvis vi klarer å redusere 3SAT til X i polynomisk tid. Da er X like vanskelig
 eller vanskeligere enn 3SAT. Det impliserer at X er NP hardt.
 
-<<<<<<< Updated upstream
-Et annet eksempel på dette finner du i forklaringen hvorfor [[3SAT]] er
-[[NP-Hard|NP-hardt]].
-=======
+Et annet eksempel på dette finner du i forklaringen hvorfor [[3SAT]] er [[NP-Hard|NP-hardt]].
+
 Et annet eksempel på dette finner du i forklaringen hvorfor [[3SAT]] er [[NP-Hard|NP-hardt]].
 
 
@@ -43,4 +41,3 @@ En person som alltid tar de riktige valgene utifra informasjonen den har fått.
 The proof is left as an exercise to the reader.
 
 Eller spør Jonah
->>>>>>> Stashed changes
