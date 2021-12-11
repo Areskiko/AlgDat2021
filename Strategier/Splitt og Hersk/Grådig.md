@@ -2,7 +2,7 @@
 
 ## Egenskaper
 -	[[Grådighetsegenskapen]] (The greedy-choice property)
--	Opptimal [[Delinstans | delstruktur]]
+-	Optimal [[Delinstans | delstruktur]]
 -	Ofte feil å velge
 
 

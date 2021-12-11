@@ -4,23 +4,43 @@ Begreper:
 - [x] In place
 - [ ] Rekursjon
 
-Forstå datatyper:
-- [ ] Pros
-- [ ] Cons
-- [ ] Whack
+Datatyper:
+- [ ] Binære søketrær trær
+- [ ] Restnett
+- [ ] Hashtable
+- [ ] Metodene til prioritetskø
 
 Generelt:
 - [ ] Liste over algoritmer, og enkle egenskaper
+- [ ] Asymptotisk notasjon
+- [ ] Amortisert analyse
+- [ ] Bisect og bisect'
+
+Rekurrenser
+- [ ] Substitusjon
+- [ ] Rekursjonstrær
+- [ ] Masterteoremet
+- [ ] Eksempel på delinstansgraf hos delinstans
+- [ ] Optimal delstruktur
+
+Eksempler
+- [ ] Maximum subarray
+- [ ] Flyt eksempler
+- [ ] Stavkutting
+- [ ] LCS
+- [ ] Binær ryggsekkproblem (ligger i pensumheftet)
 
 Algoritmer:
 - [ ] Randomized partition 
 - [ ] Randomized select 
+- [ ] Select, men ikke in depth, bare hva den gjør
+- [ ] Heapsort
 
 Oppgave 2
 
 Generelt:
-- [ ] Algoritmers forrhold til hverandre
-- [ ] Problemer i forrhold til hverandre
+- [ ] Algoritmers forhold til hverandre
+- [ ] Problemer i forhold til hverandre
 - [ ] Diskriminerende faktorer i problemer
 
 Bruk ordeme:
