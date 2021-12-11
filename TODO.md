@@ -41,6 +41,15 @@ Eksempler
 - [ ] Korteste vei 
 - [ ] Forgjengerstrukturen for alle til alle korteste vei
 - [ ] Flytnet, flyt og maksflyt problemet
+- [ ] NP komplette problemer
+	- [ ] CIRCUIT-SAT
+	- [ ] SAT
+	- [ ] 3-CNF-SAT
+	- [ ] CLIQUE
+	- [ ] VERTEX-COVER
+	- [ ] HAM-CYCLE
+	- [ ] TSP
+	- [ ] SUBSET-SUM
 
 Algoritmer:
 - [ ] Randomized partition 
