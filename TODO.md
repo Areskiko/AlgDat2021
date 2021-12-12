@@ -25,7 +25,7 @@ Rekurrenser
 - [ ] Rekursjonstrær - 1
 - [x] Masterteoremet - 1
 - [ ] Eksempel på delinstansgraf hos delinstans - 2
-- [ ] Optimal delstruktur - 2
+- [ ] Optimal delstruktur - 1
 
 Eksempler
 - [ ] Maximum subarray - 3
