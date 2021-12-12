@@ -7,17 +7,9 @@ Quicksort:
 
 ![[Quicksort.PNG]]
 
-Partition:
+[[Partition]]
 
-![[Partition.PNG]]
-
-Randomized partition:
-
-Kjøretid i quicksort med denne: $\Theta(n \lg n)$
-
-Selve randomized select: $\Omega(n lg n)$
-
-![[randomized partition.PNG]]
+Kjøretid for quicksort med [[Randomized-partition | randomized-partition]]: $\Theta(n \lg n)$
 
 #Algoritme/Sortering 
 #Strategi/SplittOgHersk 

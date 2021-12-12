@@ -53,9 +53,9 @@ Algoritmer:
 - [ ] Randomized select - 1
 - [ ] Select, men ikke in depth, bare hva den gjør -2
 - [x] Heapsort
-- [ ] BFS - 1
+- [x] BFS - 1 
 - [ ] DFS (parentesteoremet, hvit sti teoremet, hvordan kanter klassifiseres, implementasjon med stack) - 1
-- [ ] Generic MST - 1
+- [ ] Generic MST, forbedre artikler om MST-Kruskal og Prim - 1
 - [ ] Bisect og bisect' - 2
 - [x] RELAX
 - [x] Dag shortest path kobling til DP
