@@ -11,6 +11,8 @@ Sortering i heap er [HEAPSORT](#heapsort).
 
 [[#MAX HEAP INSERT | MAX HEAP INSERT]]
 
+[[#HEAP EXTRACT MAX]]
+
 Implementasjonen av disse funksjonene forutsetter at heapen representeres med et array i minnet: ![Array representation](bilder/HeapRepresentation.png)
 
 ![Relationship functions](bilder/HeapRelationships.png)
@@ -44,6 +46,12 @@ Kjøretid: O(lg n)
 Kjøretid: O(lg n)
 
 ![max heap insert](bilder/maxHeapInsert.PNG)
+
+## HEAP EXTRACT MAX
+
+Kjøretid: $O(\lg n)$
+
+![[Heap Extract Max.PNG]]
 
 #Datatype
 #Sammenlign 
