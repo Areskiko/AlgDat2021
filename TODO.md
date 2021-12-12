@@ -4,9 +4,9 @@ Begreper:
 - [x] Rekursjon
 
 Datatyper:
-- [ ] Binære søketrær - 1
+- [x] Binære søketrær - 1
 - [ ] Restnett - 1
-- [ ] Hashtable - 1
+- [x] Hashtable - 1
 - [ ] Metodene til prioritetskø/koblingen til en max/min heap - 2
 
 Generelt:
@@ -50,7 +50,7 @@ Eksempler
 
 Algoritmer:
 - [x] Randomized partition
-- [ ] Randomized select - 1
+- [x] Randomized select - 1
 - [ ] Select, men ikke in depth, bare hva den gjør -2
 - [x] Heapsort
 - [x] BFS - 1 

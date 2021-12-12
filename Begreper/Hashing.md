@@ -1,0 +1,2 @@
+Hashing går ut på å konvertere et objekt til et bestemt sett med nøkler. Dette gjøres gjennom en hashfunksjon. 
+En hashfunksjon kan mappe flere inputs til samme nøkkel. Jo mindre sannsynlig slike kollisjoner er for små nøkkelset, jo bedre er hashfunksjonen. Det er også ønskelig at hashfunksjoner oppfyller prinsippet om [[Enkel uniform hashing | enke uniform hashing.]]

@@ -1,9 +1,9 @@
 # Binært søketre
 Grunnleggende operasjoner på et binært søketre har kjøretid proporsjonal
 med høyden på treet.
-For et [[Komplett binærtre]] er dette $\theta(lg\cdot n)$, om treet derrimot 
-er en lang rekke vil den samme operasjonen ta $\theta(n)$.
-Forventet høyde av et tilfeldig bygget tre er $O(lg\cdot n)$
+For et [[Komplett binærtre]] er dette $\Theta(\lg n)$, om treet derrimot 
+er en lang rekke vil den samme operasjonen ta $\Theta(n)$.
+Forventet høyde av et tilfeldig bygget tre er $O( \lg n)$
 
 I praksis kan man ikke garantere at binære søketrær bygges tilfeldig,
 men det er mulig å designe varianter av binære søketrær som garanterer
