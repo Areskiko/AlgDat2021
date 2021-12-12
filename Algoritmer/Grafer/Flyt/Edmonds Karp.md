@@ -1,4 +1,7 @@
 # Edmonds karp
+
+Er egentlig bare [[Ford Fulkerson]] med BFS
+
 ## Algoritme
 Kjøretid: $O(VE^2)$
 
