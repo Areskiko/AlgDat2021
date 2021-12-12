@@ -8,13 +8,7 @@ Kjøretid: $O(E\lg V)$
 
 ![[MSTKruskal.PNG]]
 
-Find set:
-
-![[Find set.PNG]]
-
-Union:
-
-![[Union.PNG]]
+Kruskal bruker metodene MAKE-SET, FIND-SET og UNION fra [[Skog | skog]] implementasjonen av [[Disjunkte set datastruktur | disjunkte set]].
 
 ### Prim's algorithm
 Kjøretid: $O(E\lg V)$
