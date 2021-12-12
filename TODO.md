@@ -51,7 +51,7 @@ Eksempler
 Algoritmer:
 - [x] Randomized partition
 - [x] Randomized select - 1
-- [ ] Select, men ikke in depth, bare hva den gjør -2
+- [x] Select, men ikke in depth, bare hva den gjør -2
 - [x] Heapsort
 - [x] BFS - 1 
 - [ ] DFS (parentesteoremet, hvit sti teoremet, hvordan kanter klassifiseres, implementasjon med stack) - 1
