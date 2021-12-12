@@ -1,7 +1,8 @@
 # Floyd Warshall
 
 ## Antagelser
--	Ingen negative sykler
+-	[[Negative Sykler | Negative sykler]] er en
+[[Diskriminerende Faktorer | diskriminerende faktor]]
 
 ## Algoritme
 Kjøretid: $\Theta(n^3)$
