@@ -1,4 +1,5 @@
 # Ford Fulkerson
+Er egentlig bare [[Edmonds Karp]] med [[DFS]]
 
 ## Egenskaper
 -	Kjører iterativt
