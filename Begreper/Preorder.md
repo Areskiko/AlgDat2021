@@ -1,4 +1,6 @@
 Preorder walk skriver ut rot noden før dens barn,
-det er å annta at barna leses fra venstre til høyre
+som en variant av [[Inorder tree walk]]
 
 Motsatt av [[Postorder]]
+
+#Begrep 
