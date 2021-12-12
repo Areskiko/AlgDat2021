@@ -1,4 +1,4 @@
-# Djikstra Algoritme
+# Dijkstra Algoritme
 
 ## Egenskaper
 -	Alle til alle med tabell kjøretid: $O(V^3+VE)$
