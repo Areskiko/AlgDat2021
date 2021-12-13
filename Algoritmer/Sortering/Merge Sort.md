@@ -12,6 +12,8 @@ Merge sort:
 
 Merge:
 
+Kjøretid: $\Theta(n)$
+
 ![[Merge.png]]
 
 #Algoritme/Sortering 
