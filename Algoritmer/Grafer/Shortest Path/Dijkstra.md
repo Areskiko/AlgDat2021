@@ -9,7 +9,7 @@
 
 
 ## Algoritme
-Kjøretid: O(E lg V) hvis alle noder kan nås fra rot
+Kjøretid: $O(E \lg V)$ hvis alle noder kan nås fra rot
 
 ![[Djiksrta.PNG]]
 
@@ -17,7 +17,11 @@ Extract min:
 
 Kjøretid: $\Theta$(lg n)
 
+[[Heap | Min-prioritetskø implementert med en heap]]
+
 Relax:
+
+Kjøretid: $O(1)$
 
 [[Relax]]
 

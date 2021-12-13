@@ -9,3 +9,5 @@ Til slutt returneres indeksen til $p$.
 ![[Partition.PNG]]
 
 Partition kan gardere seg mot ondsinnet input. Ved å stokke om på input med [[Randomized-partition | randomized partition.]]
+
+#Algoritme 

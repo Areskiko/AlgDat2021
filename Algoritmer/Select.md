@@ -9,3 +9,5 @@ Selve algortimen er ikke beskrevet i pensum. Men går i korte trekk ut på å:
 3. Kjør SELECT rekursivt for å finne medianen av disse $\lceil\frac{n}{5}\rceil$ medianene. 
 4. Partisjoner rundt median-medianen (ved bruk av en modifisert [[Partition | partition]]), denne får indeks $k$. 
 5. Dersom $i = k$ returner median-medianen. Ellers kjør SELECT rekursivt på den øvre eller nedre tabellen avhengig av $k < i < k$. 
+
+#Algoritme 
