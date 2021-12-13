@@ -6,6 +6,10 @@ Kjøretid: $\Theta$(V + E)
 
 ![[DagShortestPath.PNG]]
 
+Topological sort:
+
+[[Topological sort]]
+
 Relax:
 
 [[Relax]]
