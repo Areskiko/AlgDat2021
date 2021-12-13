@@ -1,0 +1,1 @@
+Hvis alle kapasiteter er heltall, er totalflyt, og flyt i alle kanter heltall
