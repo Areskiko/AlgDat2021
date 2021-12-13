@@ -9,6 +9,10 @@ Kjøretid: $\Theta(n^3)$
 
 ![[Floyd Warshall.PNG]]
 
+Med forgjengertabell.
+
+![[Floyd-Warshall-PI.png]]
+
 ## Egenskaper
 -	?
 
